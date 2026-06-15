@@ -21,7 +21,7 @@ header {
       top: 0;
       z-index: 100;
     }
-.bg-video {
+      .bg-video {
   width: 220px;
   height: auto;
   object-fit: contain;
